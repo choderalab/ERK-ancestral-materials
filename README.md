@@ -1,4 +1,4 @@
-# SETD8 Folding@home simulations
+# ERK2 Folding@home simulations
 
 This site archives trajectory data, scripts, and supplementary figures for the following publication:
 
