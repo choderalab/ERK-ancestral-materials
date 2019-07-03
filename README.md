@@ -16,5 +16,5 @@ Complete Folding@home simulation data analyzed for this publication is available
 
 ## Manifest
 
-The repo cointains all of the scripts and [jupyter](http://jupyter.org/) notebooks used to set up and process the simulation data, as well as most data arrays calculated from the original trajectories (subject to Github's file size restrictions). Materials are split into two independent directories containing different types of analyses.
+The repo cointains all of the scripts and [jupyter](http://jupyter.org/) notebooks used to set up and process the simulation data, as well as most [numpy](https://www.numpy.org/) data arrays calculated from the original trajectories (subject to Github's file size restrictions). Materials are split into two independent directories containing different types of analyses.
 
