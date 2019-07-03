@@ -4,7 +4,7 @@ This site archives trajectory data, scripts, and supplementary figures for the f
 
 Dajun Sang, Sudarshan Pinglay, Rafal P. Wiewiora, Myvizhi Esai Selvan, Hua Jane Lou, John D. Chodera, Benjamin Turk, Zeynep H. Gümüş and Liam J. Holt
 
-**Ancestral reconstruction reveals mechanisms of ERK regulatory evolution**.  
+**Ancestral reconstruction reveals mechanisms of ERK regulatory evolution**
 
 DOI: 
 
