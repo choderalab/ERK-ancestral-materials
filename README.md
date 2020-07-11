@@ -6,7 +6,7 @@ Dajun Sang, Sudarshan Pinglay, Rafal P. Wiewiora, Myvizhi Esai Selvan, Hua Jane 
 
 **Ancestral reconstruction reveals mechanisms of ERK regulatory evolution**
 
-DOI: 
+**DOI:** https://doi.org/10.7554/eLife.38805.001
 
 Complete Folding@home simulation data analyzed for this publication is available via the [Open Science Framework](https://osf.io/dp4cb/).
 
